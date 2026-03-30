@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Bem vindo</h1>
+    return <h1> Seja Bem vindo ao tabnews!</h1>
 
 }
 
